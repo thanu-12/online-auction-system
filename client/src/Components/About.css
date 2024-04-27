@@ -1,0 +1,36 @@
+/* About.css */
+
+.about {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: justify;
+  background-color: #aeeeff; /* Updated background color */
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+p {
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
+
+.back-to-home-button {
+  background-color: transparent;
+  color: #333;
+  padding: 10px 15px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.back-to-home-button:hover {
+  background-color: #0056b3;
+}

@@ -1,0 +1,16 @@
+/* Your existing CSS */
+
+.ganesh {
+  text-align: center;
+  margin-bottom: 20px; /* Increased margin for more space */
+  color: #4CAF50; /* Added text color */
+}
+
+.oggu {
+  margin-bottom: 20px; /* Increased margin for more space */
+  padding: 20px; /* Reduced padding for a more compact look */
+  box-sizing: border-box;
+  background-color: #f0f0f0; /* Added background color */
+  border: 1px solid #ddd; /* Added a subtle border */
+  border-radius: 8px; /* Added border-radius for rounded corners */
+} 

@@ -1,0 +1,62 @@
+/* Navbar */
+.navbar {
+  list-style: none;
+  padding: 20px 0;
+  margin: 0;
+  background-color: #c51b1b; /* Blue background color */
+  display: flex;
+  justify-content: space-between; 
+  align-items: center; 
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 24px;
+  height: 80px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
+} 
+
+/* Navbar Brand */
+.navbar-brand {
+  color: #fff; /* White color */
+  text-decoration: none;
+}
+
+/* Navbar Heading */
+.navbar-heading {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 28px;
+  margin: 0;
+  color: #fff; /* White color */
+}
+
+/* Navbar Links */
+.navbar-links {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-links li {
+  margin-left: 20px; /* Space between navbar items */
+}
+
+.navbar-links li a {
+  color: #fff; /* White color */
+  text-decoration: none;
+  transition: all 0.3s ease; /* Smooth transition */
+}
+
+.navbar-links li a:hover {
+  color: #f39c12; /* Yellow color on hover */
+}
+
+/* Main Heading */
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 42px;
+  margin: 20px 0; /* Space below the heading */
+  color: #2c3e50; /* Dark blue color */
+}
